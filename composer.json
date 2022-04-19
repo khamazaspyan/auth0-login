@@ -34,7 +34,7 @@
     "ext-openssl": "*",
     "ext-filter": "*",
     "ext-mbstring": "*",
-    "khamazaspyan/auth0-PHP": "^1.0.0",
+    "khamazaspyan/auth0-php": "^1.0.0",
     "illuminate/support": " ^6.0 || ^7.0 || ^8.0 || ^9.0",
     "illuminate/contracts": "^6.0 || ^7.0 || ^8.0 || ^9.0"
   },
